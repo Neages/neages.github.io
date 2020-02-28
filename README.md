@@ -1,2 +1,2 @@
-# neages.github.io
+# Солтан Сагеев
 Создание на github pages
