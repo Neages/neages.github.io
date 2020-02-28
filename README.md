@@ -1,2 +1,2 @@
 # neages.github.io
-Создани на github pages
+Создание на github pages
